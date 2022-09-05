@@ -9,3 +9,7 @@
 Tamil Word Guessing Game
     </a>
 </p>
+<p align=center>
+Original <a href="https://www.nytimes.com/games/wordle">Wordle </a> Game
+    </a>
+</p>
